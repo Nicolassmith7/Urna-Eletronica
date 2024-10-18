@@ -1,15 +1,12 @@
-# Pizza Paradise
+# Urna Eletrônica
 
-## Descrição
-
-Pizza Paradise é um site de compra de pizzas que permite aos usuários navegar pelo menu, escolher seus sabores favoritos e realizar pedidos de forma fácil e rápida. Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript.
+Este projeto simula uma urna eletrônica, permitindo que os usuários votem em candidatos de maneira simples e segura. Desenvolvido com HTML, CSS e JavaScript, o sistema visa oferecer uma experiência intuitiva para o usuário.
 
 ## Funcionalidades
 
-- **Menu de Pizzas**: Visualização de diversas opções de pizzas com descrição e imagens.
-- **Carrinho de Compras**: Adicione, remova e visualize os itens selecionados em tempo real.
-- **Filtros de Busca**: Encontre pizzas por sabor, tamanho e preço.
-- **Comentários dos Usuários**: Seção onde os clientes podem deixar feedback sobre suas experiências.
+- **Tela de Votação**: Exibição dos candidatos com opções de seleção.
+- **Confirmação de Voto**: Feedback claro ao usuário após registrar o voto.
+- **Validação de Votos**: Sistema que garante que apenas votos válidos sejam aceitos.
 
 ## Tecnologias Utilizadas
 
@@ -21,4 +18,4 @@ Pizza Paradise é um site de compra de pizzas que permite aos usuários navegar 
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/Nicolassmith7/pizza-paradise.git
+   git clone https://github.com/Nicolassmith7/urna-eletronica.git
